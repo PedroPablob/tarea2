@@ -5,7 +5,7 @@ let displayText = false;
 let textTimer = 0;
 
 function setup() {
-  createCanvas(1024, 768); // Tamaño del lienzo más grande
+  createCanvas(1324, 868); // Tamaño del lienzo más grande
   rectMode(CENTER);
   
   // Crear instancias de Element 2 (cuadrados) con diferentes tamaños, velocidades y direcciones
